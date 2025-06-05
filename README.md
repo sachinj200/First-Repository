@@ -1,4 +1,4 @@
 # First-Repository
 This is my first git repository.
 <br>
-Author - Sachin Jagtap
+Author - Sachin Jagtap (Data Scientist)
